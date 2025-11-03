@@ -1,0 +1,15 @@
+{
+  "name": "game-history",
+  "version": "1.0.0",
+  "description": "A starter template for teaching junior developers game programming",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
+
